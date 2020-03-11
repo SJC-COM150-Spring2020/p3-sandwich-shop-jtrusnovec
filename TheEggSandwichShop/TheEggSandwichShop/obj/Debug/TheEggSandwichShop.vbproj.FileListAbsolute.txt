@@ -1,0 +1,11 @@
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.exe.config
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.exe
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.pdb
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\bin\Debug\TheEggSandwichShop.xml
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.vbprojResolveAssemblyReference.cache
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.TheEggSandwichShop.resources
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.Resources.resources
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.vbproj.GenerateResource.Cache
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.exe
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.xml
+F:\jtrusnovec\projects\TheEggSandwichShop\TheEggSandwichShop\obj\Debug\TheEggSandwichShop.pdb
